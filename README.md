@@ -1,6 +1,6 @@
 # dataflow-automation-infra 
 
-> **_NOTE:_**  This README file is still WIP 
+> **_NOTE:_**  This README file is still WIP.
 
 <br>
 
